@@ -1,6 +1,8 @@
 About project:
 -
-The problem that we are going to solve here is that given a set of features that describe a house in Boston, our machine learning model must predict the house price. To train our machine learning model with boston housing data, we will be using boston dataset.
+- The problem that we are going to solve here is that given a set of features that describe a house in Boston, our machine learning model must predict the house price. 
+- To train our machine learning model with boston housing data, we will be using boston dataset. 
+- We will be using **Random Forest Regression algorithm** for creating the prediction model. 
 
 Dataset Attributes:
 -
